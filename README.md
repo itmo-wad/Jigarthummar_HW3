@@ -1,9 +1,7 @@
 # hw3
  This repo contains HTML CSS and Python files. Frontend is done using by html and css and for backend flask and mongodb is used.
  this web app contains basic blogging website where user can read and post blogs.
-### Implement blog website features:
-  -A public "Story" page where everyone can see all blog posts
-  -Only authenticated user can add new post
+
   
 ## Some screenshots
 
